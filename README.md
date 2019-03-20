@@ -26,7 +26,7 @@ K-means Algorithm
 K-means is a cheap algorithm.So it does not matter whether one is using 10 or 1000 iterations. It does not require a lot of computational
 power.
 
-In the K-means.png file, the BLACK stars shows the intial positions of the cluster-centers.The RED stars shows the final position after 
+In the [K-means.png and K_means(image2).png] files, the BLACK stars shows the intial positions of the cluster-centers.The RED stars shows the final position after 
 iterations.
 
       
